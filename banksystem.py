@@ -76,4 +76,3 @@ except AccountNotFoundError as e:
 print(acc1.get_balance())
 print(acc2.get_balance())
 bank.list_accounts()
-print(bank)
